@@ -1,0 +1,8 @@
+[
+  {
+    "package": "cmdstanr",
+    "url": "https://github.com/stan-dev/cmdstanr",
+    "via": ["bnns"],
+    "from": "bnns"
+  }
+]
