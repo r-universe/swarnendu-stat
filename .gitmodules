@@ -5,7 +5,3 @@
 [submodule "bnns"]
 	path = bnns
 	url = https://github.com/swarnendu-stat/bnns
-[submodule "cmdstanr"]
-	path = cmdstanr
-	url = https://github.com/stan-dev/cmdstanr
-	registered = false
